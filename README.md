@@ -29,7 +29,7 @@ An end-to-end machine-learning pipeline that identifies telecom customers at hig
 ├── figures/                      # All numbered report figures (PNG)
 ├── models/
 │   └── connecttel_churn_model.joblib     # Final pipeline + decision threshold
-├── ConnectTel_Churn_Presentation.pptx    # 13-slide project presentation
+├── ConnectTel_Churn_Presentation_Updated.pptx    # Project presentation
 └── requirements.txt
 ```
 
